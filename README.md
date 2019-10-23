@@ -15,7 +15,7 @@ http://www.jd.com
 Console
 
  输入以下代码 之后按一下回车键 就会自动完成了。(图中以Chrome浏览器为例)
-
+![QIWEB](0.png)
 let productList = [],
     shopList = [],
     url = "https://api.m.jd.com/client.action";
@@ -124,4 +124,6 @@ function autoShopping() {
     }
 }
 start();
+
+![QIWEB](1.png)
 出处 https://www.quchao.net/JD-20191111.html
